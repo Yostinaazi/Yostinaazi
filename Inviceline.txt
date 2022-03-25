@@ -1,0 +1,5 @@
+1,mobile,1000,3
+1,mouce,1000,5
+2,mobile,500,2
+3,desk,300,5
+3,phone,800,6
